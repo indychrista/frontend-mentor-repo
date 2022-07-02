@@ -26,7 +26,7 @@ If you have questions, comments, or feedback about this repository, I'd love to 
 
 | Name | Level | Links | Technology |
 | ---- | ----- | ----- | ----- |
-| Product Preview Card Component Main | ⭐ | [Demo](./product-preview-card-component-main/index.html)  [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main) | HTML/CSS |
+| Product Preview Card Component Main | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html)  [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main) | HTML/CSS |
 | Project 2 | ⭐ | [Demo]()  [Repo]() | HTML/CSS |
 | Project 3 | ⭐ | [Demo]()  [Repo]() | HTML/CSS |
 | | | | |
