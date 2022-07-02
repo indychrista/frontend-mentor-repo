@@ -47,8 +47,8 @@ Users should be able to:
 Will update when submitted!
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Repository URL: [Add repo URL here](https://)
+- Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/](https://indychrista.github.io/frontend-mentor-repo/)
+- Repository URL: [https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main](https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main)
 
 ## ⚙️ My process
 
@@ -87,7 +87,7 @@ A few areas I plan to continue working on in future Frontend Mentor projects:
 
 ## 👩‍💻 Author 
 
-- Website - [Christa DeJesus | Frontend Mentor Projects](../README.md)
+- Website - [Christa DeJesus | Frontend Mentor Projects](https://indychrista.github.io/frontend-mentor-repo/)
 - Frontend Mentor - [@indychrista](https://www.frontendmentor.io/profile/indychrista)
 - Twitter - [@indychrista](https://www.twitter.com/indychrista)
 
