@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* THE NEW CSS RESET */
+/* For more information on "The New CSS Reset" by Elad Shechter, visit https://elad2412.github.io/the-new-css-reset/ for more information */
+/*** The new CSS Reset - version 1.4.5 (last updated 13.1.2022) ***/
+/* Remove all the styles of the "User-Agent-Stylesheet", except for the 'display' property
+    - The "symbol *" part is to solve Firefox SVG sprite bug
+ */
+*:where(:not(iframe, canvas, img, svg, video):not(svg *, symbol *)) {
+    all: unset;
+    display: revert;
+}
+/* Preferred box-sizing value */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+/* Reapply the pointer cursor for anchor tags */
+a {
+    cursor: revert;
+}
+/* Remove list styles (bullets/numbers) */
+ol, ul, menu {
+    list-style: none;
+}
+/* For images to not be able to exceed their container */
+img {
+    max-width: 100%;
+}
+/* removes spacing between cells in tables */
+table {
+    border-collapse: collapse;
+}
+/* revert the 'white-space' property for textarea elements on Safari */
+textarea {
+    white-space: revert;
+}
+/* fix the feature of 'hidden' attribute.
+   display:revert; revert to element instead of attribute */
+:where([hidden]){
+    display:none;
+}
+/* revert for bug in Chromium browsers
+   - fix for the content editable attribute will work properly. */
+:where([contenteditable]){
+    -moz-user-modify: read-write;
+    -webkit-user-modify: read-write;
+    overflow-wrap: break-word;
+    /* -webkit-line-break: after-white-space; */ /*<-- This is causing an error for me, but included as part of the original CSS reset by Elad Shechter */
+}
+/* apply back the draggable feature - exist only in Chromium and Safari */
+:where([draggable="true"]) {
+    -webkit-user-drag: element;
+}
+/* END THE NEW CSS RESET */
+
+:root {
+    font-size: 10px;
+    --primary-1: #0048b8; /* This background color is passes WCAG AAA accessibility for NORMAL white text */
+    --primary-2: #006bc0; /* This background color passes WCAG AA accessibility for NORMAL white text */
+    --primary-3: #0089c6; /* This background color passes WCAG AA accessibility for LARGE white text */
+    --primary-4: #00a3cc; /* This background color passes WCAG AA accessibility for normal #222 text */
+    --primary-5: #00c5d3; /* This background color passes WCAG AAA accessibility for normal #222 text */
+    --primary-6: #67dbe3; /* This background color passes WCAG AAA accessibility for normal #222 text */
+    --primary-7: #c6fbff; /* This background color passes WCAG AAA accessibility for normal #222 text */
+    --primary-8: #edfeff;
+    --accent-1: #ea526f;
+    --accent-2: #ffa62b;
+    --neutral-1: #222;
+    --neutral-2: #444;
+    --neutral-3: #999;
+    --neutral-4: #cfcfcf;
+    --neutral-5: #fff;
+}
+
+/* MAIN STYLES */
+body {
+    font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif;
+    color: var(--neutral-1);
+}
+p {
+    margin-bottom: 2rem;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
