@@ -47,7 +47,7 @@ Users should be able to:
 Will update when submitted!
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/](https://indychrista.github.io/frontend-mentor-repo/)
+- Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html)
 - Repository URL: [https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main](https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main)
 
 ## ⚙️ My process
