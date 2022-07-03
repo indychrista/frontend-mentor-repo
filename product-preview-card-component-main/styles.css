@@ -94,6 +94,7 @@ h1 {
 .feature-price {
   font-family: var(--font-heading);
   font-size: 32px;
+  font-weight: 700;
   letter-spacing: 0px;
   color: var(--primary-1);
 }
@@ -136,13 +137,14 @@ button:hover {
   }
   #mobile-img {
     display: none;
-  }
-  #desktop-img {
-    display: block;
+    width: 100%;
   }
   .feature-img {
     border-radius: 12px 0px 0px 12px;
     width: 50%;
+  }
+  #desktop-img {
+    display: block;
   }
   .card-holder {
     padding: 0px;
