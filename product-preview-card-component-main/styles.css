@@ -63,11 +63,17 @@ h1 {
   border-radius: 12px;
   background: var(--neutral-lt);
   width: 100%;
-  max-width: 650px;
+  max-width: 400px;
 }
 
 /* FEATURE IMAGE */
 .feature-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.feature-img img {
+  width: 100%;
   border-radius: 12px 12px 0px 0px;
 }
 #desktop-img {
@@ -128,23 +134,24 @@ button:hover {
 @media screen and (min-width: 700px) {
   h1 {
     margin: 20px 0px 22px 0px;
-    line-height: 107%;
-    letter-spacing: 0px;
   }
-  .standard-p {
-    letter-spacing: 0.5px;
-    line-height: 25px;
+  .feature-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    min-width: 50%;
+  }
+  .feature-img img {
+    height: 100%;
+    width: 100%;
   }
   #mobile-img {
     display: none;
-    width: 100%;
-  }
-  .feature-img {
-    border-radius: 12px 0px 0px 12px;
-    width: 50%;
   }
   #desktop-img {
     display: block;
+    border-radius: 12px 0px 0px 12px;
   }
   .card-holder {
     padding: 0px;
@@ -152,9 +159,10 @@ button:hover {
   .card {
     flex-direction: row;
     align-items: center;
+    max-width: 600px;
   }
   .text-container {
-    padding: 35px;
+    padding: 34px;
   }
   .price-container {
     margin-top: 34px;
