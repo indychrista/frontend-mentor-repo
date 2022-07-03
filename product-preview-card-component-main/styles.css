@@ -114,15 +114,14 @@ button {
   height: 48px;
   width: 100%;
   border-radius: 8px;
-  background-color: var(--primary-1);
+  color: var(--neutral-lt);
+  background: var(--primary-1);
 }
 button:hover {
   background: var(--accent-1);
   cursor: pointer;
 }
-button p {
-  color: var(--neutral-lt);
-}
+
 
 /* MEDIA QUERIES */
 @media screen and (min-width: 700px) {
