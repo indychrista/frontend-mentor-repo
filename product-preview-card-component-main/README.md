@@ -46,7 +46,7 @@ Users should be able to:
 
 Will update when submitted!
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-css-variables-y68lkTCpOK](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-css-variables-y68lkTCpOK)
 - Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html)
 - Repository URL: [https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main](https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main)
 
@@ -68,15 +68,19 @@ Will update when submitted!
 
 ### 📚 What I learned 
 
-Will update after I submit this project!
+Key take-aways from this first Frontend Mentor challenge:
+ * Cross-browser check!
+ * Don't over-complicate your code.
+ * I feel comfortable with HTML/CSS, but I also have a lot to learn!
 
 ### 🚀 Continued development 
 
 A few areas I plan to continue working on in future Frontend Mentor projects:
 
-- Become more familiar with the Frontend Mentor platform, submission process, and community
-- Increase design and development workflow efficiency (considering Frontend Mentor Pro Account to work from provided Figma design files)
-- Seek out and build upon project feedback received from the Frontend Mentor and development community
+- Cross-browser testing
+- Deep dive into CSS
+- Increase design and development workflow efficiency
+- Seek out and offer project feedback
 
 ### 💰 Useful resources 
 
