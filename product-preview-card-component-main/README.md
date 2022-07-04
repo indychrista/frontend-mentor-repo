@@ -24,7 +24,7 @@ Images shown below represent Figma design files I created from scratch using the
 - [Acknowledgments](#acknowledgments)
 
 
-## 🧭Overview
+## 🧭 Overview
 
 ### The challenge
 
@@ -44,8 +44,6 @@ Users should be able to:
 
 ### Links
 
-Will update when submitted!
-
 - Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-css-variables-y68lkTCpOK](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-css-variables-y68lkTCpOK)
 - Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html)
 - Repository URL: [https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main](https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main)
@@ -54,6 +52,7 @@ Will update when submitted!
 
 ### Built with
 
+- HTML/CSS
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
@@ -69,9 +68,9 @@ Will update when submitted!
 ### 📚 What I learned 
 
 Key take-aways from this first Frontend Mentor challenge:
- * Cross-browser check!
- * Don't over-complicate your code.
- * I feel comfortable with HTML/CSS, but I also have a lot to learn!
+ - Cross-browser check!
+ - Don't over-complicate your code.
+ - I feel comfortable with HTML/CSS, but I also have a lot to learn!
 
 ### 🚀 Continued development 
 
