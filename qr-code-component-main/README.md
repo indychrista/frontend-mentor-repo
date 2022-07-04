@@ -24,10 +24,10 @@ Currently, I do not have a Frontend Mentor Pro Account and was not able to downl
 
 ### Screenshot Comparison
 
-<img src="" width="350">
-<img src="" width="350">
+<img src="./images/qr-component-mobile-comp-wht.png" width="350">
+<img src="./images/qr-component-desktop-comp-wht.png" width="350">
 
-### Links
+### Links 
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM](https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM)
 - Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html)
