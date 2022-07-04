@@ -29,7 +29,7 @@ Currently, I do not have a Frontend Mentor Pro Account and was not able to downl
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM](https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM)
 - Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html)
 
 ## ⚙️ My process
