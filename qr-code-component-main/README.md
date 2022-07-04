@@ -30,7 +30,7 @@ Currently, I do not have a Frontend Mentor Pro Account and was not able to downl
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html)
 
 ## ⚙️ My process
 
