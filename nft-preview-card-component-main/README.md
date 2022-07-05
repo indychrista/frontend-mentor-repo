@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-flexbox-foZ9_sUAP2)
 - Live Site URL: [Add live site URL here](https://indychrista.github.io/frontend-mentor-repo/nft-preview-card-component-main/index.html)
 
 ## ⚙️ My process
