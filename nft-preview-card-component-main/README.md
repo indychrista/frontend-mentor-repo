@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://indychrista.github.io/frontend-mentor-repo/nft-preview-card-component-main/index.html)
 
 ## ⚙️ My process
 
