@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+/* RESET */
+html, body, div, span, h1, p, article, button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+:root {
+    /* COLORS */
+    --primary-1: hsl(215, 51%, 70%);
+    --primary-2: hsl(178, 100%, 50%);
+    --primary-3: rgba(0, 255, 247, 0.5);
+    --neutral-mainBG: hsl(217, 54%, 11%);
+    --neutral-cardBG: hsl(216, 50%, 16%);
+    --neutral-line: hsl(215, 32%, 27%);
+    --neutral-white: hsl(0, 0%, 100%);
+}
+body {
+    font-family: "Outfit", sans-serif;
+    color: var(--primary-1);
+    background: var(--neutral-mainBG);
+    height: 100vh;
+}
+p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 150%;
+}
+h1 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 20px 0pc 14px 0px;
+}
+hr {
+    background: var(--neutral-line);
+    border: none;
+    height: 1px;
+    margin: 16px 0px;
+}
+a {
+    color: var(--neutral-white);
+    text-decoration: none;
+}
+a:hover {
+    color: var(--primary-2);
+    cursor: pointer;
+}
+.container { /* Keeps card component center on the page */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.card {
+    margin: 25px;
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 0px 25px 5px 20px rgba(0,0,0,.08), 0px 25px 3px 50px rgba(0,0,0,.05);
+    background: var(--neutral-cardBG);
+    max-width: 350px;
+}
+.image-container { /* Holds feature image and hover overlay */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.feature { /* Holds the image, used for positioning */
+    width: 100%;
+}
+.feature img { /* Actual <img /> element */
+    width: 100%;
+    border-radius: 8px;
+}
+.overlay { /* Holds & positions hover translucent color overlay and <img /> element */
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--primary-3);
+    height: 98%;
+    width: 100%;
+    border-radius: 8px;
+    opacity: 0%;
+    transition: 500ms;
+    cursor: pointer;
+}
+.overlay:hover { /* If .overlay was set to hidden, hover would not work! */
+    opacity: 100%;
+    transition: 500ms;
+}
+.details-container { /* Holds 2 .detail-containers */
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 18px 0px 0px 0px;
+}
+.detail-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+    font-weight: 400;
+    font-size: 15px;
+}
+.detail-container:first-child {
+    color: var(--primary-2);
+    font-weight: 600;
+}
+.creator-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+.creator-container p {
+    font-size: 15px;
+}
+.creator-container img {
+    height: 33px;
+    border: 1px solid var(--neutral-white);
+    border-radius: 50%;
+}
+.creator-name {
+    font-weight: 400;
+}
+
+@media screen and (min-width: 400px) {
+    
+    p {
+        font-size: 18px;
+    }
+    .detail-container, .creator-container p {
+        font-size: 16px;
+    }
+    .details-container {
+        margin: 24px 0px;
+    }
+
+}
