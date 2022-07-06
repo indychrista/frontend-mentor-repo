@@ -32,8 +32,10 @@ Users should be able to:
 
 ### Screenshot Comparison
 
-<img src="" width="350">
-<img src="" width="350">
+<img src="./images/nft-component-figma.png" width="350"> 
+<img src="./images/nft-component-mobile-comp.png" width="350">
+<img src="./images/nft-component-states.png" width="350">
+<img src="./images/nft-component-desktop-comp.png" width="350">
 
 ### Links
 
@@ -59,20 +61,20 @@ Users should be able to:
 ### 📚 What I learned
 
 Key take-aways from this Frontend Mentor challenge:
- -  
+ -  Always start development of Frontend Mentor projects using Firefox web browser and developer tools and then cross-browser test using Chrome, etc. This will increase design accuracy when compared with their design screenshot and help identify code that may be incompatible across browsers early in the development process.
+ - You cannot hover over an element set to "display: none" or "visibility: hidden". I solved this problem by altering the opacity of a feature image overlay when hovered, although there are some bugs on mobile. I plan to revisit this problem in the future, so I welcome any ideas!
 
 ### 🚀 Continued development
 
 A few areas I plan to continue working on in future Frontend Mentor projects:
 
-- Cross-browser testing
-- Deep dive into CSS
-- Increase design and development workflow efficiency
+- Explore Firefox web browser, developer tools, and other Mozilla products
+- Map out design and development process and explore options to better track workflow
 - Seek out and offer project feedback 
 
 ### 💰 Useful resources
 
-- [Example resource 1]() - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Mozilla.org](https://mozilla.org) - Learn about the Firefox web browser and a host of other open source Mozilla products.
 
 ## 👩‍💻 Author
 
