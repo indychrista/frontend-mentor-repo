@@ -1,6 +1,6 @@
 # Frontend Mentor Projects
 
-## WELCOME!👋🏽 
+## WELCOME!🖐🏼
 
 This is my main repository for storing Frontend Mentor projects I've submitted and for those I'm working on in real time.
 
