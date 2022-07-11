@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Order summary card solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## 📝Important to Note
 
@@ -9,11 +9,11 @@ Currently, I do not have a Frontend Mentor Pro Account and was not able to downl
 ## 🗺️ Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot-comparison](#screenshot-comparison)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Utilities used](#utilities-used)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
@@ -22,24 +22,30 @@ Currently, I do not have a Frontend Mentor Pro Account and was not able to downl
 
 ## 🧭 Overview
 
+### The challenge
+
+Users should be able to:
+
+- See hover states for interactive elements
+
 ### Screenshot Comparison
 
-<img src="./images/qr-component-mobile-comp-wht.png" width="350">
-<img src="./images/qr-component-desktop-comp-wht.png" width="350">
+<img src="" width="350">
 
-### Links 
+### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM](https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM)
-- Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## ⚙️ My process
 
 ### Built with
 
-- HTML/CSS
+- HTML
 - CSS custom properties
+- Flexbox
 - Mobile-first workflow
-
+ 
 ### Utilities used
 
 - [Figma](https://www.figma.com) 
@@ -51,20 +57,23 @@ Currently, I do not have a Frontend Mentor Pro Account and was not able to downl
 ### 📚 What I learned
 
 Key take-aways from this Frontend Mentor challenge:
- -  Keep it simple.
+
+- 
+- 
+- 
 
 ### 🚀 Continued development
 
 A few areas I plan to continue working on in future Frontend Mentor projects:
 
-- Cross-browser testing
-- Deep dive into CSS
-- Increase design and development workflow efficiency
-- Seek out and offer project feedback 
+- 
+- 
+- 
 
 ### 💰 Useful resources
 
-Nothing to report this round!
+- [When to Use The Button Element | CSS Tricks](https://css-tricks.com/use-button-element) - Chris Coyier breaks down when to use the button element vs. a simple link taking into consideration both function and accessibility.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## 👩‍💻 Author
 

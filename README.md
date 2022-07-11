@@ -10,7 +10,7 @@ This is my main repository for storing Frontend Mentor projects I've submitted a
 ## CONTACT
 If you have questions, comments, or feedback about this repository, I'd love to hear from you!
 
-➡️ Connect on [Twitter](https://www.twitter.com/indychrista)  
+➡️ Connect on [Frontend Mentor](https://www.frontendmentor.io/profile/indychrista)
 ➡️ Connect on [Github](https://github.com/indychrista)
 
 ## Projects
@@ -26,6 +26,7 @@ If you have questions, comments, or feedback about this repository, I'd love to 
 
 | Name | Level | Links | Technology |
 | ---- | ----- | ----- | ----- |
+| Order Summary Component Main | ⭐ | [Demo]() [Repo]() [Solution]() | HTML/CSS |
 | NFT Preview Component Main | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/nft-preview-card-component-main/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/nft-preview-card-component-main) [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-flexbox-foZ9_sUAP2) | HTML/CSS |
 | QR Code Component Main | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/qr-code-component-main) [Solution](https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM) | HTML/CSS |
 | Product Preview Card Component Main | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/product-preview-card-component-main/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/product-preview-card-component-main) [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-css-variables-y68lkTCpOK) | HTML/CSS | 

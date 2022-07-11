@@ -91,7 +91,7 @@ A few areas I plan to continue working on in future Frontend Mentor projects:
 
 - Website - [Christa DeJesus | Frontend Mentor Projects](https://indychrista.github.io/frontend-mentor-repo/)
 - Frontend Mentor - [@indychrista](https://www.frontendmentor.io/profile/indychrista)
-- Twitter - [@indychrista](https://www.twitter.com/indychrista)
+- Github - [indychrista.github.io](https://indychrista.github.io)
 
 ## 😊 Acknowledgments 
 
