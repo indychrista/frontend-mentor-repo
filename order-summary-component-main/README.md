@@ -30,7 +30,9 @@ Users should be able to:
 
 ### Screenshot Comparison
 
-<img src="" width="350">
+<img src="./images/order-summary-component-figma.png" width="350">
+<img src="./images/order-summary-component-mobile-comp.png" width="350">
+<img src="./images/order-summary-component-dsktp-comp.png" width="350">
 
 ### Links
 
@@ -58,7 +60,7 @@ Users should be able to:
 
 Key take-aways from this Frontend Mentor challenge:
 
-- 
+- To be updated
 - 
 - 
 
@@ -66,14 +68,14 @@ Key take-aways from this Frontend Mentor challenge:
 
 A few areas I plan to continue working on in future Frontend Mentor projects:
 
-- 
+- To be updated
 - 
 - 
 
 ### 💰 Useful resources
 
 - [When to Use The Button Element | CSS Tricks](https://css-tricks.com/use-button-element) - Chris Coyier breaks down when to use the button element vs. a simple link taking into consideration both function and accessibility.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.example.com) - To be updated
 
 ## 👩‍💻 Author
 
