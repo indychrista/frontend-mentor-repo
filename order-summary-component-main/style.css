@@ -48,6 +48,7 @@ a {
 }
 a:hover {
     opacity: 70%;
+    text-decoration: none;
     cursor: pointer;
 }
 /* STRUCTURE */
