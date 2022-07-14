@@ -30,9 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="" width="350">
-<img src="" width="350">
-<img src="" width="350">
+<img src="./images/stats-preview-card-figma.png" width="350">
+<img src="./images/stats-preview-card-mobile-comp.png" width="350">
+<img src="./images/stats-preview-card-dsktp-comp.png" width="350">
 
 ### Links
 
