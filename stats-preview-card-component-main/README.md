@@ -60,13 +60,13 @@ Users should be able to:
 
 Key take-aways from this Frontend Mentor challenge:
 
--  
+-  To be updated
 -  
 -  
 
 ### 🚀 Continued development
 
-
+- To be updated
 
 ### 💰 Useful resources
 
