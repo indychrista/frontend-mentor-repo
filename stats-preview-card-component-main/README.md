@@ -60,17 +60,17 @@ Users should be able to:
 
 Key take-aways from this Frontend Mentor challenge:
 
--  To be updated
--  
--  
+-  Using the ``<picture>`` element allows you to assign images based on the display/device right in your HTML.
+-  The ::before and ::after psuedo elements can be used for a variety of design/decorative needs. However, they should not be used for actual non-decorative content because the "content" they create is not compatible with accessibility technology.
+-  There are a million ways to code any project. Just keep trying new avenues, learning best practices, and applying what you learn to see how it all comes together to solve a particular problem. Maybe the strategy you choose won't be the best solution for this challenge, but you might just learn something that will help you find the best solution for the next one!  
 
 ### 🚀 Continued development
 
-- To be updated
+- For this next round, I've decided to push myself to try something new with HTML and CSS. We'll see where that strategy takes me!
 
 ### 💰 Useful resources
 
-- [mdn web docs | <picture>: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) - This project was my first using the picture element to offer alternative images based on display/device. If this is new to you, too, the Mozilla Developer docs will get you started!
+- [mdn web docs | picture: The Picture element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) - This project was my first using the picture element to offer alternative images based on display/device. If this is new to you, too, the Mozilla Developer docs will get you started!
 - [CSS-TRICKS | 7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS](https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/) - If you're struggling to grasp the use of the before and after pseudo elements, this is a great article full of examples to explore. 
 
 ## 👩‍💻 Author
