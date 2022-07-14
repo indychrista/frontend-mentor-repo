@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-TEWDrZ7sBw](https://www.frontendmentor.io/solutions/stats-preview-card-component-TEWDrZ7sBw)
 - Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/stats-preview-card-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/stats-preview-card-component-main/index.html)
 
 ## ⚙️ My process

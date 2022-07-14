@@ -26,7 +26,8 @@ If you have questions, comments, or feedback about this repository, I'd love to 
 
 | Name | Level | Links | Technology |
 | ---- | ----- | ----- | ----- |
-| Stats Preview Card Component | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/stats-preview-card-component/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/stats-preview-card-component) [Solution]() | HTML/CSS |
+| 3-Column Preview Card Component | ⭐ | [Demo] [Repo] [Solution] | HTML/CSS |
+| Stats Preview Card Component | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/stats-preview-card-component-main/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/stats-preview-card-component-main) [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-TEWDrZ7sBw) | HTML/CSS |
 | Order Summary Component Main | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/order-summary-component-main/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/order-summary-component-main) [Solution](https://www.frontendmentor.io/solutions/order-summary-component-using-flexbox-T_lvtLqj9B) | HTML/CSS |
 | NFT Preview Component Main | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/nft-preview-card-component-main/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/nft-preview-card-component-main) [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-flexbox-foZ9_sUAP2) | HTML/CSS |
 | QR Code Component Main | ⭐ | [Demo](https://indychrista.github.io/frontend-mentor-repo/qr-code-component-main/index.html) [Repo](https://github.com/indychrista/frontend-mentor-repo/tree/main/qr-code-component-main) [Solution](https://www.frontendmentor.io/solutions/qr-code-component-r8X23FtaEM) | HTML/CSS |
