@@ -39,8 +39,8 @@ a {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  padding-top: 86px;
   height: 100vh;
+  padding-top: 10px;
 }
 @media (min-width: 1000px) {
   .container {
