@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-z9BvJa-mR6](https://www.frontendmentor.io/solutions/3column-preview-card-component-z9BvJa-mR6)
 - Live Site URL: [https://indychrista.github.io/frontend-mentor-repo/3-column-preview-card-component-main/index.html](https://indychrista.github.io/frontend-mentor-repo/3-column-preview-card-component-main/index.html)
 
 ## ⚙️ My process
