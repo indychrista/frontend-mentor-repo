@@ -40,7 +40,7 @@ a {
   align-items: flex-start;
   justify-content: center;
   height: 100vh;
-  padding: 10px 0px;
+  padding-top: 20px;
 }
 @media (min-width: 1000px) {
   .container {
