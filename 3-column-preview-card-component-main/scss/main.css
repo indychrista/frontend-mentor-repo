@@ -18,6 +18,11 @@ body {
 }
 
 h1 {
+  font-size: 0px;
+  line-height: 0px;
+}
+
+h2 {
   font-family: "Big Shoulders Display", cursive;
   font-size: 40px;
   text-transform: uppercase;
