@@ -1,0 +1,18 @@
+/* COLORS (variables) */
+$primary-1: hsl(31, 77%, 52%); //bright orange
+$primary-2: hsl(184, 100%, 22%); //dark cyan
+$primary-3: hsl(179, 100%, 13%); //very dark cyan
+$neutral-lt: hsla(0, 0%, 100%, 0.75); //transparent white
+$neutral-md: hsl(0, 0%, 95%); //Very light gray (background, headings, buttons)
+
+/* FONTS (variables) */
+$standard: "Lexend Deca", san-serif;
+$heading: "Big Shoulders Display", cursive;
+
+$font-weights: (
+    "regular": 400,
+    "bold": 700
+);
+
+/* MEDIA (variables) */
+$desktop: 1000px;

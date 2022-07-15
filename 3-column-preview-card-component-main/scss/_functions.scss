@@ -1,0 +1,4 @@
+// Sass functions should return values - Sass newbie note!
+@function weight($weight-name) {
+    @return map-get($font-weights, $weight-name);
+}

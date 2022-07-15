@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+@import './resets';
+@import './variables';
+@import './functions';
+@import './mixins';
+
+
+/* MAIN STYLES */
+body {
+    background: $neutral-md;
+    font-family: $standard;
+    font-size: 15px;
+    line-height: 165%;
+}
+h1 {
+    font-family: $heading;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: weight(bold);
+    color: $neutral-md;
+    margin: 20px auto 20px 0px;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 86px;
+    height: 100vh;
+
+    @include desktop{
+        align-items: center;
+        padding-top: 0px;
+    }
+}
+.card {
+    @include flexCenter(column);
+    width: 100%;
+
+    @include desktop{
+        flex-direction: row;
+    }
+}
+img {
+    width: fit-content;
+    margin-right: auto;
+}
+/* CARD ITEMS/SECTIONS */
+/* Nesting Example - Sass newbie note! */
+.item {
+    @include flexCenter(column);
+    gap: 20px;
+    width: 327px;
+    min-width: 327px;
+    height: 443px;
+    min-height: 443px;
+    padding: 49px;
+
+    @include desktop{
+        width: 307px;
+        min-width: 307px;
+        height: 501px;
+        min-height: 501px;
+    }
+
+    #{&}__paragraph {
+        font-family: $standard;
+        font-weight: weight(regular); 
+        color: $neutral-lt;
+    }
+}
+#item-1 {
+    background-color: $primary-1;
+    border-radius: 8px 8px 0px 0px;
+
+    @include desktop{
+        border-radius: 8px 0px 0px 8px;
+    }
+}
+#item-2 {
+    background-color: $primary-2;
+}
+#item-3 {
+    background-color: $primary-3;
+    border-radius: 0px 0px 8px 8px;
+    @include desktop{
+        border-radius: 0px 8px 8px 0px;
+    }
+
+}
+
+/* BUTTONS */
+.item__btn {
+    @include button
+}
+.item__btn:hover {
+    @include button_hover
+}
+#item-1 a {
+    color: $primary-1;
+}
+#item-2 a {
+    color: $primary-2;
+}
+#item-3 a {
+    color: $primary-3;
+}
+#item-1 a:hover, #item-2 a:hover, #item-3 a:hover {
+    color: $neutral-md;
+}
+

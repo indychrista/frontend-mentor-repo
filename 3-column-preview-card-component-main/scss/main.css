@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+/* RESETS (partial scss) */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* COLORS (variables) */
+/* FONTS (variables) */
+/* MEDIA (variables) */
+/* MAIN STYLES */
+body {
+  background: hsl(0deg, 0%, 95%);
+  font-family: "Lexend Deca", san-serif;
+  font-size: 15px;
+  line-height: 165%;
+}
+
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: hsl(0deg, 0%, 95%);
+  margin: 20px auto 20px 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 86px;
+  height: 100vh;
+}
+@media (min-width: 1000px) {
+  .container {
+    align-items: center;
+    padding-top: 0px;
+  }
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+@media (min-width: 1000px) {
+  .card {
+    flex-direction: row;
+  }
+}
+
+img {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-right: auto;
+}
+
+/* CARD ITEMS/SECTIONS */
+/* Nesting Example - Sass newbie note! */
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 327px;
+  min-width: 327px;
+  height: 443px;
+  min-height: 443px;
+  padding: 49px;
+}
+@media (min-width: 1000px) {
+  .item {
+    width: 307px;
+    min-width: 307px;
+    height: 501px;
+    min-height: 501px;
+  }
+}
+.item .item__paragraph {
+  font-family: "Lexend Deca", san-serif;
+  font-weight: 400;
+  color: hsla(0deg, 0%, 100%, 0.75);
+}
+
+#item-1 {
+  background-color: hsl(31deg, 77%, 52%);
+  border-radius: 8px 8px 0px 0px;
+}
+@media (min-width: 1000px) {
+  #item-1 {
+    border-radius: 8px 0px 0px 8px;
+  }
+}
+
+#item-2 {
+  background-color: hsl(184deg, 100%, 22%);
+}
+
+#item-3 {
+  background-color: hsl(179deg, 100%, 13%);
+  border-radius: 0px 0px 8px 8px;
+}
+@media (min-width: 1000px) {
+  #item-3 {
+    border-radius: 0px 8px 8px 0px;
+  }
+}
+
+/* BUTTONS */
+.item__btn {
+  display: block;
+  text-align: center;
+  background-color: hsl(0deg, 0%, 95%);
+  border-radius: 30px;
+  width: 145px;
+  height: 48px;
+  line-height: 48px;
+  margin-right: auto;
+  margin-top: 5px;
+}
+@media (min-width: 1000px) {
+  .item__btn {
+    margin-top: 60px;
+  }
+}
+
+.item__btn:hover {
+  background: transparent;
+  border: 2px solid hsl(0deg, 0%, 95%);
+}
+
+#item-1 a {
+  color: hsl(31deg, 77%, 52%);
+}
+
+#item-2 a {
+  color: hsl(184deg, 100%, 22%);
+}
+
+#item-3 a {
+  color: hsl(179deg, 100%, 13%);
+}
+
+#item-1 a:hover, #item-2 a:hover, #item-3 a:hover {
+  color: hsl(0deg, 0%, 95%);
+}/*# sourceMappingURL=main.css.map */

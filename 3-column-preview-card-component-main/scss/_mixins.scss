@@ -1,0 +1,33 @@
+// Sass mixins should return styles - Sass newbie note!
+@mixin flexCenter($direction) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: $direction;
+}
+@mixin button() {
+    display: block;
+    text-align: center;
+    background-color: $neutral-md;
+    border-radius: 30px;
+    width: 145px;
+    height: 48px;
+    line-height: 48px;
+    margin-right: auto;
+    margin-top: 5px;
+
+    @include desktop{
+        margin-top: 60px;
+    }
+
+}
+@mixin button_hover() {
+    background: transparent;
+    border: 2px solid $neutral-md;
+}
+// Mixin for media queries (variable created for display width) - Sass newbie note!
+@mixin desktop {
+    @media (min-width: $desktop) {
+        @content;
+    }
+}
